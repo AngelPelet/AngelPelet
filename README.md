@@ -1,12 +1,15 @@
 
  ### Olá, meu nome é Angel Peleteiro 🖐️
-
  
 [![site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://angelpelet.github.io/portifolio/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-peleteiro-02a87222b/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelpeleteiro/)
 
-![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelPelet&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/AngelPelet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelPelet&show_icons=true&theme=radical&include_allcommit=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPelet&layout=compact&langs_count=16&theme=radical">
+</div>
 
 ### Tecnologias que eu uso no meu dia
 
